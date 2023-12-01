@@ -1,6 +1,6 @@
 # Hello, World! 👋
 
-Welcome to my GitHub profile! I'm Nur Ikhsan Majid, a passionate [Your Role] from Malang Regency, East Java, Indonesia. 
+Welcome to my GitHub profile! I'm Nur Ikhsan Majid from Malang Regency, East Java, Indonesia. 
 
 🚀 I love coding, exploring new technologies, and also learning a new things.
 
